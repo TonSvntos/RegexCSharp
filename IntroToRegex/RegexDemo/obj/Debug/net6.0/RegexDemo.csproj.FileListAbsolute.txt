@@ -1,0 +1,16 @@
+C:\Users\antonio.carlos\OneDrive - MSC\IntroToRegex\RegexDemo\bin\Debug\net6.0\test.txt
+C:\Users\antonio.carlos\OneDrive - MSC\IntroToRegex\RegexDemo\bin\Debug\net6.0\RegexDemo.exe
+C:\Users\antonio.carlos\OneDrive - MSC\IntroToRegex\RegexDemo\bin\Debug\net6.0\RegexDemo.deps.json
+C:\Users\antonio.carlos\OneDrive - MSC\IntroToRegex\RegexDemo\bin\Debug\net6.0\RegexDemo.runtimeconfig.json
+C:\Users\antonio.carlos\OneDrive - MSC\IntroToRegex\RegexDemo\bin\Debug\net6.0\RegexDemo.dll
+C:\Users\antonio.carlos\OneDrive - MSC\IntroToRegex\RegexDemo\bin\Debug\net6.0\RegexDemo.pdb
+C:\Users\antonio.carlos\OneDrive - MSC\IntroToRegex\RegexDemo\obj\Debug\net6.0\RegexDemo.csproj.AssemblyReference.cache
+C:\Users\antonio.carlos\OneDrive - MSC\IntroToRegex\RegexDemo\obj\Debug\net6.0\RegexDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antonio.carlos\OneDrive - MSC\IntroToRegex\RegexDemo\obj\Debug\net6.0\RegexDemo.AssemblyInfoInputs.cache
+C:\Users\antonio.carlos\OneDrive - MSC\IntroToRegex\RegexDemo\obj\Debug\net6.0\RegexDemo.AssemblyInfo.cs
+C:\Users\antonio.carlos\OneDrive - MSC\IntroToRegex\RegexDemo\obj\Debug\net6.0\RegexDemo.csproj.CoreCompileInputs.cache
+C:\Users\antonio.carlos\OneDrive - MSC\IntroToRegex\RegexDemo\obj\Debug\net6.0\RegexDemo.dll
+C:\Users\antonio.carlos\OneDrive - MSC\IntroToRegex\RegexDemo\obj\Debug\net6.0\refint\RegexDemo.dll
+C:\Users\antonio.carlos\OneDrive - MSC\IntroToRegex\RegexDemo\obj\Debug\net6.0\RegexDemo.pdb
+C:\Users\antonio.carlos\OneDrive - MSC\IntroToRegex\RegexDemo\obj\Debug\net6.0\RegexDemo.genruntimeconfig.cache
+C:\Users\antonio.carlos\OneDrive - MSC\IntroToRegex\RegexDemo\obj\Debug\net6.0\ref\RegexDemo.dll
